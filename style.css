@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header-block__all{
+    background-image: url(/foto/bcg.svg);
+    border-radius: 0 0 64px 64px;
+    width: 1918px;
+    height: 822px;
+
+}
+.header-line{
+    padding-top: 50px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.mainnav{
+ 
+    color: aliceblue;
+    padding: 0px 24px;
+   
+}
+.header-block__userdata{
+    color: aliceblue;
+   
+   
+}
+.logo{
+    
+    color: aliceblue;
+    
+    
+}
