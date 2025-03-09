@@ -8,16 +8,22 @@
     border-radius: 0 0 64px 64px;
     width: 1918px;
     height: 822px;
+    padding-left: 279px;
+    padding-right: 281px;
 
 }
 .header-line{
-    padding-top: 50px;
+    font-family: "Poppins";
+    padding-top: 32px;
     justify-content: space-between;
     display: flex;
     align-items: center;
 }
 .mainnav{
- 
+    font-weight: 400;
+    font-size: 14px;
+    gap: 24px;
+    display: flex;
     color: aliceblue;
     padding: 0px 24px;
    
@@ -28,8 +34,8 @@
    
 }
 .logo{
-    
+    font-size: 35px;
+    text-decoration: none;
     color: aliceblue;
-    
-    
+    font-weight: bold;
 }
